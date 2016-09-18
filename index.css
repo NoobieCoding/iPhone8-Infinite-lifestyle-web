@@ -1,0 +1,8 @@
+.full {
+  width: 100%;
+  overflow: hidden;
+}
+
+.bar {
+  background-color: black;
+}
