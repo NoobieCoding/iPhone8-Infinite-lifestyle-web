@@ -1,5 +1,5 @@
 body {
-  background-color: #fdfafa;
+  background-color: gray;
 }
 
 .full {
@@ -9,4 +9,49 @@ body {
 
 .bar {
   background-color: black;
+}
+
+.p {
+  display: block;
+  margin: auto;
+}
+
+#contact {
+  position: absolute;
+  right: 100px;
+  top: 10px;
+}
+
+#reserver {
+  position: absolute;
+  right: 500px;
+  top: 1200px;
+  width: 100px;
+  height: 40px;
+}
+
+.n-label {
+  font-size: 24px;
+  font-family: "Myriad Pro", Myriad;
+  font-color: #A9A9A9;
+}
+
+#specContainer {
+  font-size: 20px;
+  font-color: #A9A9A9;
+  padding-top: 50px;
+  padding-left: 750px;
+  padding-bottom: 50px;
+}
+
+#slogan {
+  font-weight: bold;
+  font-size: 44px;
+  font-stretch: expanded;
+  padding-top: 100px;
+}
+
+#mainTP {
+  padding-left: 400px;
+  vertical-align: middle;
 }
