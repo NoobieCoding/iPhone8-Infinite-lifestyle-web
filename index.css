@@ -24,8 +24,8 @@ body {
 
 #reserver {
   position: absolute;
-  right: 500px;
-  top: 1200px;
+  right: 600px;
+  top: 1250px;
   width: 100px;
   height: 40px;
 }
@@ -54,4 +54,20 @@ body {
 #mainTP {
   padding-left: 400px;
   vertical-align: middle;
+}
+
+#nameFront {
+  padding-left: 600px;
+}
+
+#nameRear {
+  padding-left: 600px;
+}
+
+#frontPic {
+  padding-left: 425px;
+}
+
+#rearPic {
+  padding-left: 225px;
 }
